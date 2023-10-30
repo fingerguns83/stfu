@@ -1,0 +1,1 @@
+{"id":"stfu","name":"STFU","version":"1.0","description":"Prevent join/leave spam when moving between servers.","url":"https://fg83.net","authors":["fingerguns83"],"dependencies":[],"main":"net.fg83.stfu.Stfu"}
